@@ -1,0 +1,9 @@
+{
+  "name": "elcheneglobalresources",
+  "version": "1.0.0",
+  "description": "Compnay sample landing page",
+  "main": "index.js",
+  "repository": "https://github.com/samuelajalode/elcheneglobalresources.git",
+  "author": "samuelajalode <113217825+samuelajalode@users.noreply.github.com>",
+  "license": "MIT"
+}
